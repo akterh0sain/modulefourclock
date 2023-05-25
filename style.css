@@ -1,0 +1,36 @@
+
+#clock {
+    width: fit-content ;
+    border: 5px solid #00ff80;
+    border-radius: 15px;
+    padding: 10px 20px;
+    margin: auto;
+    font-size: 100px;
+    font-weight: 500;
+    font-family: Arial, sans-serif;
+    color: #00ff80;
+    align-items: center;
+    text-align: center;
+    background-color: black;
+}
+.box{
+    
+width: auto;
+margin: 10%;
+align-items: center;
+text-align: center;
+border: 3px solid #00a050;
+border-radius: 15px;
+padding: 10px;
+}
+h1{
+    font-family: Arial, sans-serif;
+    color: #00a050;  
+}
+p{
+    font-family: Arial, sans-serif;
+    word-spacing: 3px;
+    line-height: 30px;
+    font-size: 20px;
+    
+}
